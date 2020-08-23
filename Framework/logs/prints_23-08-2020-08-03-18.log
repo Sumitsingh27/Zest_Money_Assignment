@@ -1,0 +1,16 @@
+20:03:22 INFO  BrowserSelection:45 - Chrome Browser get Invoked
+20:03:24 INFO  BrowserSelection:64 - Browser get Maximized
+20:03:35 INFO  BrowserSelection:91 - URL get Loaded
+20:03:36 DEBUG Actions:43 - iPhone 11 (64GB) - Yellow gets entered in [[ChromeDriver: chrome on WINDOWS (bb734e3444381d1748ea3f7f8964748c)] -> xpath: //*[@id='twotabsearchtextbox']] field
+20:03:39 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (bb734e3444381d1748ea3f7f8964748c)] -> xpath: //*[@id='twotabsearchtextbox']] field
+20:03:39 DEBUG WebStepDefination:39 - iPhone 11 (64GB) - Yellow item is displayed
+20:03:39 DEBUG WebStepDefination:47 - Searched Item iPhone 11 (64GB) - Yellow price : 64900
+20:03:48 INFO  BrowserSelection:91 - URL get Loaded
+20:03:48 INFO  Actions:60 - Clicked on [[ChromeDriver: chrome on WINDOWS (bb734e3444381d1748ea3f7f8964748c)] -> xpath: /html/body/div[2]/div/div/button]
+20:03:48 DEBUG Actions:43 - iPhone 11 Yellow 64 GB gets entered in [[ChromeDriver: chrome on WINDOWS (bb734e3444381d1748ea3f7f8964748c)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+20:03:48 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (bb734e3444381d1748ea3f7f8964748c)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+20:03:49 DEBUG WebStepDefination:74 - iPhone 11 (Yellow, 64 GB) item is displayed
+20:03:49 DEBUG WebStepDefination:82 - Searched Item iPhone 11 (Yellow, 64 GB) price : 68300
+20:03:49 INFO  WebStepDefination:91 - FlipKart Price is greater i.e, 68300 by the difference of :3400.0
+20:03:51 INFO  BrowserSelection:107 - Browser get Close
+20:03:52 INFO  BrowserSelection:114 - Browser get Quit

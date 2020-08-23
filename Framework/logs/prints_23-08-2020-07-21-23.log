@@ -1,0 +1,5 @@
+19:21:27 INFO  BrowserSelection:60 - Chrome Browser get Invoked
+19:21:29 INFO  BrowserSelection:79 - Browser get Maximized
+19:21:37 INFO  BrowserSelection:83 - URL get Loaded
+19:21:37 DEBUG Actions:43 - iPhone 11 (64GB) - Yellow gets entered in [[ChromeDriver: chrome on WINDOWS (e285d80ac41bb585eda8a602bafcb522)] -> xpath: //*[@id='twotabsearchtextbox']] field
+19:21:38 INFO  Actions:60 - Clicked on [[ChromeDriver: chrome on WINDOWS (e285d80ac41bb585eda8a602bafcb522)] -> xpath: //*[@id="nav-search"]/form/div[2]/div/input]

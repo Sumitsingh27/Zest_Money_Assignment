@@ -1,0 +1,8 @@
+19:52:30 INFO  BrowserSelection:45 - Chrome Browser get Invoked
+19:52:32 INFO  BrowserSelection:64 - Browser get Maximized
+19:52:40 INFO  BrowserSelection:91 - URL get Loaded
+19:52:40 INFO  Actions:60 - Clicked on [[ChromeDriver: chrome on WINDOWS (5002a69e4cd86e7a3a104ca6bff7db27)] -> xpath: /html/body/div[2]/div/div/button]
+19:52:41 DEBUG Actions:43 - iPhone 11 Yellow 64 GB gets entered in [[ChromeDriver: chrome on WINDOWS (5002a69e4cd86e7a3a104ca6bff7db27)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:52:41 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (5002a69e4cd86e7a3a104ca6bff7db27)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:52:42 DEBUG WebStepDefination:76 - iPhone 11 (Yellow, 64 GB) item is displayed
+19:52:42 DEBUG WebStepDefination:84 - Searched Item iPhone 11 (Yellow, 64 GB) price : ?68300

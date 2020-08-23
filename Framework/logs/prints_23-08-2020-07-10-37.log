@@ -1,0 +1,4 @@
+19:10:42 INFO  BrowserSelection:60 - Chrome Browser get Invoked
+19:10:44 INFO  BrowserSelection:79 - Browser get Maximized
+19:10:46 INFO  BrowserSelection:105 - Browser get Close
+19:10:47 INFO  BrowserSelection:112 - Browser get Quit

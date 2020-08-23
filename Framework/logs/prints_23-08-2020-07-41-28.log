@@ -1,0 +1,7 @@
+19:41:33 INFO  BrowserSelection:45 - Chrome Browser get Invoked
+19:41:35 INFO  BrowserSelection:64 - Browser get Maximized
+19:41:43 INFO  BrowserSelection:91 - URL get Loaded
+19:41:43 INFO  Actions:60 - Clicked on [[ChromeDriver: chrome on WINDOWS (7f2805d6df5a5cfa1a5cc3fcb8989df3)] -> xpath: /html/body/div[2]/div/div/button]
+19:41:43 DEBUG Actions:43 - iPhone 11 Yellow 64 GB gets entered in [[ChromeDriver: chrome on WINDOWS (7f2805d6df5a5cfa1a5cc3fcb8989df3)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:41:43 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (7f2805d6df5a5cfa1a5cc3fcb8989df3)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:41:44 DEBUG WebStepDefination:76 - iPhone 11 (Yellow, 64 GB) item is displayed

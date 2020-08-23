@@ -1,0 +1,11 @@
+19:35:05 INFO  BrowserSelection:45 - Chrome Browser get Invoked
+19:35:07 INFO  BrowserSelection:64 - Browser get Maximized
+19:35:15 INFO  BrowserSelection:91 - URL get Loaded
+19:35:15 DEBUG Actions:43 - iPhone 11 (64GB) - Yellow gets entered in [[ChromeDriver: chrome on WINDOWS (afaadfebca052e1b43c7f8d285cbb321)] -> xpath: //*[@id='twotabsearchtextbox']] field
+19:35:17 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (afaadfebca052e1b43c7f8d285cbb321)] -> xpath: //*[@id='twotabsearchtextbox']] field
+19:35:18 DEBUG WebStepDefination:41 - iPhone 11 (64GB) - Yellow item is displayed
+19:35:18 DEBUG WebStepDefination:49 - Searched Item iPhone 11 (64GB) - Yellow price : 64900
+19:35:26 INFO  BrowserSelection:91 - URL get Loaded
+19:35:26 DEBUG Actions:43 - iPhone 11 (Yellow, 64 GB) gets entered in [[ChromeDriver: chrome on WINDOWS (afaadfebca052e1b43c7f8d285cbb321)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:35:26 DEBUG Actions:43 - ?? gets entered in [[ChromeDriver: chrome on WINDOWS (afaadfebca052e1b43c7f8d285cbb321)] -> xpath: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input] field
+19:35:52 DEBUG WebStepDefination:72 - iPhone 11 (Yellow, 64 GB) item is displayed
